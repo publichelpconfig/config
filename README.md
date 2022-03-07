@@ -1,2 +1,1 @@
-# config
-no
+http://localhost:57407
